@@ -3,7 +3,7 @@ Testando 1, 2, 3...
 
 Olá! Prazer, me chamo Marllon.
 
-Estou aqui por uma indicação de um amigo, pois nessecito desenvolver minhas habilidades em progamação para me engajar na minha área de trabalho, já que nenhuma empresa me da essa força. Com com ajuda de todos aqui no GitHub! Grato.
+Estou aqui por uma indicação de um amigo, pois necessito desenvolver minhas habilidades em progamação para me engajar na minha área de trabalho, já que nenhuma empresa me da essa ajuda. Conto com a ajuda de todos aqui no GitHub! Grato.
 
 (
 ING: Hello! Pleasure, my name is Marllon.
